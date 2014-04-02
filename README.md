@@ -1,4 +1,7 @@
 text-learn
 ==========
 
-Text learn - tf-idf vector, cosine-similarity, sklearn
+clone and run ```ipython notebook```
+
+
+Text learn - tf-idf vector, cosine-similarity, sklearn, ipython notebook, python 3
